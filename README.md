@@ -17,7 +17,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 ## Process and challenges
 
-FlashChat had many components to worth through, including a welcome screen. To add a bit of flair, I added a typing animation to the named of the app using a for loop. Taking each letter of the app name, I was able to have them show up individually after each other by putting them into an array and displaying the contents of the array on a .3 second interval.
+FlashChat had many components to work through, including a welcome screen. To add a bit of flair, I added a typing animation to the named of the app using a for loop. Taking each letter of the app name, I was able to have them show up individually after each other by putting them into an array and displaying the contents of the array on a .3 second interval.
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-02-08 at 16 25 27](https://user-images.githubusercontent.com/113778995/217665362-e4aaf6b8-3965-474a-885e-837b7a6f2c2d.gif)
 
